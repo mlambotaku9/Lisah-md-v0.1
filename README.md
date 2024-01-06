@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/mlambotaku9"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/mlambotaku9"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Mlambotaku9-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
